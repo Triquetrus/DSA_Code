@@ -1,6 +1,9 @@
 # Java
 *.class
 
+# C/C++
+*.exe
+
 # VS Code
 .vscode/
 
@@ -11,5 +14,5 @@
 out/
 bin/
 
-# OS
+# macOS
 .DS_Store
