@@ -1,0 +1,15 @@
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Build folders
+out/
+bin/
+
+# OS
+.DS_Store
